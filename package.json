@@ -1,0 +1,24 @@
+{
+  "name": "wocss-generic-shared",
+  "version": "0.0.1",
+  "description": "A small selection of shared styles used in the wocss framework",
+  "main": "_generic.shared.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wocss/generic.shared.git"
+  },
+  "keywords": [
+    "wocss",
+    "css",
+    "oocss"
+  ],
+  "author": "Gean Carlos <gean.marroquin@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wocss/generic.shared/issues"
+  },
+  "homepage": "https://github.com/wocss/generic.shared#readme"
+}
