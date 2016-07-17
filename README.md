@@ -10,4 +10,4 @@ $ npm install --save wocss-generic-shared
 
 ## Dependencies
 
-* [wocss-settings-defaults](https://github.com/wocss/settings.default)
+* [wocss-settings-defaults](https://github.com/wocss/settings.defaults)
