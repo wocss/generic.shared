@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/wocss/generic.shared/issues"
   },
-  "homepage": "https://github.com/wocss/generic.shared#readme"
+  "homepage": "https://github.com/wocss/generic.shared#readme",
+  "dependencies": {
+    "wocss-settings-defaults": "^1.0.1"
+  }
 }
