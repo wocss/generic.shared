@@ -1,3 +1,6 @@
+> ## This module is DEPRECATED
+> If you want to have a perfect `vertical rhythm`, use https://github.com/modularscale/modularscale-sass
+
 # Shared
 
 > Generic
