@@ -1,6 +1,6 @@
 {
   "name": "wocss-generic-shared",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "[DEPRECATED] A small selection of shared styles used in the wocss framework",
   "main": "_generic.shared.scss",
   "repository": {
